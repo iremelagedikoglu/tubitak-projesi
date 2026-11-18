@@ -1,2 +1,2 @@
-# tubitak-projesi
-tubitak 2209 projesi algoritmik dünya
+# proje tanıtım videosu
+https://youtu.be/tHy59ltwZAg
